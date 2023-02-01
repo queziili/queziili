@@ -10,6 +10,5 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style-for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style-for-the-badge&logo=typescript&logoColor=white" />
 <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-438530?style-for-the-badge&logo=node.js&logoColor=white" />
-<img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 </div><en/>
