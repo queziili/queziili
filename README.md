@@ -1,4 +1,4 @@
-### 🦄 Aloha! I'm luh, Applications founder and Junior Apprentice
+### 🦄 Aloha! I'm nick, Applications founder and Junior Apprentice
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=queziili&show_icons=true&theme=dracula)
 
