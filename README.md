@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Luiz</h1>
 <p align="left"> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=queziili&theme=radical" alt="queziili" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord" alt="queziili" /></a> </p>
 
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
